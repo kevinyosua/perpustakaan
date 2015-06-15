@@ -1,5 +1,4 @@
 .ddsmoothmenu{
-	z-index: 500;
 }
 
 .ddsmoothmenu ul{
@@ -36,7 +35,7 @@
 display: inline-block;
 }
 
-.ddsmoothmenu ul li a:hover { /*CSS class that's dynamically added to the currently active menu items' LI A element*/
+.ddsmoothmenu ul li a.selected, .ddsmoothmenu ul li a:hover { /*CSS class that's dynamically added to the currently active menu items' LI A element*/
 	color: #fff;
 	background: url(../images/menu_hover.png)
 }
