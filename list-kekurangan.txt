@@ -1,0 +1,32 @@
+web - list yang kurang
+
+- connect db
+- home
+	- belum connect db
+	- slider kosongan (belum link)
+- about
+	- isi conten
+- gallery
+	- belum connect db
+	- page 1 dll ??
+	- button next n prev
+- registration
+	- belum connect db
+	- button confirm
+	- shopping cart (hapus?)
+- contact
+	- belum connect db
+	- isi contact
+	- peta conect internet
+- productdetail
+	- belum connect db
+- pinjam
+	- belum connect db
+	- button remove
+	- button checkout (link belum)
+- menu
+	- menu yang di select warna hijau
+	- search belum conect
+- spesial (dipake/gk/diganti)
+- login (belum)
+- logo (belum)
